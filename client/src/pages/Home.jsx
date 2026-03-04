@@ -12,7 +12,7 @@ import { useState } from 'react';
 import AuthModel from '../components/AuthModel';
 import { useNavigate } from 'react-router-dom';
 import evalImg from "../assets/ai-ans.png"
-import hrImg from "../assets/hr.png"
+import hrImg from "../assets/HR.png"
 import confidenceImg from "../assets/confi.png"
 import creditImg from "../assets/credit.png"
 import techImg from "../assets/tech.png"
