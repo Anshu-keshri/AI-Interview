@@ -10,7 +10,7 @@ import { setUserData } from './redux/userSlice'
 import InterviewHistory from './pages/inerviewHistory'
 import Pricing from './pages/Pricing'
 import InterviewReport from './pages/interviewReport'
-export const ServerUrl = "http://localhost:8000"
+export const ServerUrl = "https://ai-interview-rzbw.onrender.com"
 
 
 const App = () => {
